@@ -24,17 +24,9 @@ I'm a passionate software developer with expertise in various technologies inclu
 ## 🌱 Currently Learning
 
 I'm always eager to learn new technologies and improve my skills. Currently, I'm diving deeper into [Add the technology or skill you're currently learning].
-
-## 📱 Let's Connect!
-
-You can find me on the web:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/khaled-omar-5111672b9))
  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)]([https://www.facebook.com/your-profile](https://www.facebook.com/profile.php?id=100003128722409))
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)]([https://www.instagram.com/your-handle](https://www.instagram.com/khaled7hasan7/?fbclid=IwAR0TBZZdXP1g5nfbTqVfQwyXsiBBbyDQW1KETcgvojhwd8THOvcWZVDtpIo_aem_AVXdXv7RZ8_JyZ8OpHbzN6A8kbPdEOfbPwU0xGppcooMnN8zKs51a7BVF9OH2aCkKmT5JWmOx_qe20-StUgWVvgl))
+ 
 
-Feel free to reach out to me for collaboration, job opportunities, or just to say hi! 😊
 
 
