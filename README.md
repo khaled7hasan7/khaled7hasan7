@@ -2,7 +2,7 @@
 ![ka](https://github.com/khaled7hasan7/khaled7hasan7/assets/131875788/78b30447-6f91-46c2-95eb-f34f1c4d62ac)
 
 
-I'm a passionate software developer with expertise in various technologies including Java, C#, Android, ASP.NET MVC, HTML, CSS, PHP, databases (SQL Server, MySQL), Git, GitHub, Blender, Bootstrap, and more. I love creating awesome software solutions and contributing to open source projects.
+I'm a passionate software developer with expertise in various technologies including Springboot , Java, C#, Android, ASP.NET MVC, HTML, CSS, PHP, databases (SQL Server, MySQL), Git, GitHub, Blender, Bootstrap, and more. I love creating awesome software solutions and contributing to open source projects.
 
 ## 🔧 Technologies & Tools
 
