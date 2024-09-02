@@ -2,7 +2,7 @@
 
 ![ka](https://github.com/khaled7hasan7/khaled7hasan7/assets/131875788/78b30447-6f91-46c2-95eb-f34f1c4d62ac)
 <br>
-💻I studied computer science.
+💻I studied computer science. 
 <br><br>
 I'm detail-oriented and always strive to create smooth, user-friendly experiences. Whether it's animating webpage elements, dynamically setting page titles, or ensuring proper alignment and positioning on a webpage, I put a lot of effort into delivering quality results. As I near the end of my degree, I'm excited to see where my journey in the tech industry will take me.
 
