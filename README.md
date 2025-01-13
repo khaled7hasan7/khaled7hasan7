@@ -1,6 +1,5 @@
 # 💫 Khaled Hassan Omar
-
-![ka](https://github.com/khaled7hasan7/khaled7hasan7/assets/131875788/78b30447-6f91-46c2-95eb-f34f1c4d62ac)
+ 
 <br>
 💻I studied computer science. 
 <br><br>
